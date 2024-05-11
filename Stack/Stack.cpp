@@ -51,6 +51,10 @@ public:
         }
 
     }
+    
+    bool isEmpty() {
+
+    }
 };
 int main()
 {
